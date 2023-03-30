@@ -1,2 +1,2 @@
-# comparative_synthesis_methods
-Code and data for the upcoming paper
+# comparative synthesis methods
+Code and data for the upcoming paper will appear here
