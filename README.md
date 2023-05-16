@@ -32,4 +32,5 @@ The dataset consisted of 104267 records and 15 variables.
 
 
 ## Synthetic Data
-The synthetic data was created using [synthpop](https://synthpop.org.uk/), [DataSynthesizer](https://github.com/DataResponsibly/DataSynthesizer), [CTGAN](https://github.com/sdv-dev/CTGAN) and [TVAE](https://github.com/sdv-dev/CTGAN/blob/master/ctgan/synthesizers/tvae.py). Fully synthetic datasets the same size as the original were generated. For each method/parameter setting 5 models were created (using different random seeds) and 1 synthetic dataset generated from each. For the utility and risk metrics the average across the five datasets was used, in order to guard against unusual results.
+The synthetic data was created using [synthpop](https://synthpop.org.uk/), [DataSynthesizer](https://github.com/DataResponsibly/DataSynthesizer), [CTGAN](https://github.com/sdv-dev/CTGAN) and [TVAE](https://github.com/sdv-dev/CTGAN/blob/master/ctgan/synthesizers/tvae.py). Fully synthetic datasets the same size as the original were generated. For each method/parameter setting 5 models were created (using different random seeds) and 1 synthetic dataset generated from each. For the utility and risk metrics the average across the five datasets was used.
+
