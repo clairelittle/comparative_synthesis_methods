@@ -1,4 +1,4 @@
-## Synthpop Experiments
+# Synthpop Experiments
 
 Using R version 4.1.0, and Synthpop version 1.6-0. Experiments were performed using the minbucket, cp value and visit sequence parameters. For all experiments (other than the visit sequence parameter experiments) the visit sequence was set to numerical variables first (alphabetically) then categorical variables in order of number of categories (ascending, with a tie decided by alphabetical order). Visit sequences used for each of the Census datasets:
 
